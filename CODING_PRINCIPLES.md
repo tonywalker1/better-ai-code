@@ -1,5 +1,8 @@
 # Coding Principles
 
+> **Tutorial:** [`docs/coding-principles-tutorial.md`](docs/coding-principles-tutorial.md) teaches
+> the *why* behind each rule, with before/after examples and language-cost analysis.
+
 These apply to production-quality code. **Context matters:** for throwaway scripts,
 prototypes, and one-off glue, this level of rigor is unnecessary — don't impose it
 where it adds noise without value. The rest of the time, default to it. AI-assisted
